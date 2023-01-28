@@ -4,7 +4,7 @@
 in order to automatically add the service to systemd. But this should be enough to get the
 big picture.
 
-Create a new file in the `~/.config/systemd/daniehei/` directory with the .service extension, for example, `socket_exmaple.service`.
+Create a new file in the `~/.config/systemd/user/` directory with the .service extension, for example, `socket_exmaple.service`.
 
 Open the file in a text editor and add the following information:
 
